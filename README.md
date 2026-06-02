@@ -36,7 +36,8 @@ Hoy se incorporan como punto de partida:
   envio individual por estudiante+docente e historial) para Linux y Windows,
 - borradores de politica de uso de equipamiento,
 - borrador de politica de backup,
-- una guia basica de normas APA para documentos institucionales.
+- una guia basica de normas APA para documentos institucionales,
+- y dos propuestas educativas iniciales dentro de `docs/propuestas_educativas/`.
 
 ## Uso sugerido
 
@@ -45,6 +46,7 @@ Hoy se incorporan como punto de partida:
 3. Si buscas reglas o criterios comunes, entrar en `docs/NORMATIVA/`.
 4. Si necesitas automatizaciones, revisar `scripts/README.md` y su guia.
 5. Si quieres reutilizar modelos o ideas base, revisar `recursos_compartidos/`.
+6. Si buscas materiales pedagogicos o referencias de intervencion, revisar `docs/propuestas_educativas/`.
 
 ## Criterio de trabajo
 

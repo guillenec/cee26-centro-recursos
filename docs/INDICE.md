@@ -47,3 +47,9 @@ Ultima actualizacion: 2026-05-11
 
 - [Recursos compartidos - vista general](../recursos_compartidos/README.md)
 - [Modelos base - plantilla de alta de usuario (Servidor CEE23)](../recursos_compartidos/modelos_base/plantilla_alta_usuario_servidor_cee23.md)
+
+## 7. Propuestas educativas
+
+- [Propuestas educativas - vista general](./propuestas_educativas/README.md)
+- [Estrategias digitales para estudiantes que no realizan producciones escritas](./propuestas_educativas/propuesta1/README.md)
+- [Aplicaciones recomendadas para alfabetizacion y educacion especial](./propuestas_educativas/propuesta2/README.md)
