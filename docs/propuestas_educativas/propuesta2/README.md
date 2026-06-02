@@ -12,7 +12,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ## Imagen de referencia
 
-![Leo con Grin](https://play-lh.googleusercontent.com/U7R1tZ8N3rZ6s7K8Yxk7lWmP7Y7W0M5z6mVj2X4mFhY)
+![Leo con Grin](./leo_con_grid.jpeg)
 
 ## Enlaces
 
@@ -95,6 +95,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 # 3. ABC Dinos
 
+## Imagen de referencia
+
+![ABC Dinos](./abc-dinos-screen.jpg)
+
 ## Enlaces
 
 * Google Play:
@@ -126,6 +130,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 ---
 
 # 4. Smile and Learn
+
+## Imagen de referencia
+
+![Smile and Learn](./smile-and-learn.png)
 
 ## Enlaces
 
@@ -159,6 +167,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 # 5. Jclic
 
+## Imagen de referencia
+
+![Jclic](./jclick.png)
+
 ## Enlaces
 
 * Sitio oficial:
@@ -190,6 +202,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 ---
 
 # 6. ARASAAC
+
+## Imagen de referencia
+
+![ARASAAC](./ARASAC.jpeg)
 
 ## Enlaces
 
@@ -225,6 +241,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 # 7. LetMeTalk
 
+## Imagen de referencia
+
+![LetMeTalk](./let_me_talk.jpeg)
+
 ## Enlaces
 
 * Sitio oficial:
@@ -255,6 +275,10 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 ---
 
 # 8. Cboard
+
+## Imagen de referencia
+
+![Cboard](./cboar.jpeg)
 
 ## Enlaces
 
