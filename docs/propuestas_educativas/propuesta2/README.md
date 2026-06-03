@@ -310,20 +310,266 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
+# 9. Kahoot!
+
+## Imagen de referencia
+
+![Kahoot!](./kahoot.jpeg)
+
+## Enlaces
+
+* Sitio oficial:
+  https://kahoot.com
+
+## ¿Qué trabaja?
+
+* Evaluación formativa.
+* Comprensión lectora.
+* Memoria.
+* Atención.
+* Participación grupal.
+
+## Recomendada para
+
+* Educación primaria.
+* Educación secundaria.
+* Educación especial con acompañamiento docente.
+
+## Ventajas
+
+* Muy motivadora.
+* Permite aprender jugando.
+* Puede utilizarse desde celulares, tablets o computadoras.
+* El docente puede crear actividades personalizadas.
+
+## Limitaciones
+
+* Requiere conexión a Internet.
+* Algunos estudiantes pueden necesitar apoyo para responder dentro del tiempo establecido.
+
+## Recomendación CEE 23
+
+⭐⭐⭐⭐⭐ Excelente para actividades grupales y repasos.
+
+---
+
+# 10. Educaplay
+
+## Imagen de referencia
+
+![Educaplay](./educaplay.jpeg)
+
+## Enlaces
+
+* Sitio oficial:
+  https://www.educaplay.com
+
+## ¿Qué trabaja?
+
+* Lectoescritura.
+* Comprensión lectora.
+* Asociación de conceptos.
+* Memoria.
+* Vocabulario.
+
+## Recomendada para
+
+* Todos los niveles educativos.
+* Educación especial.
+* Adaptaciones curriculares.
+
+## Ventajas
+
+* Permite crear actividades propias.
+* Sopas de letras.
+* Crucigramas.
+* Relacionar columnas.
+* Completar palabras.
+* Dictados.
+* Adivinanzas.
+
+## Recomendación CEE 23
+
+⭐⭐⭐⭐⭐ Muy recomendable para personalizar actividades según cada estudiante.
+
+---
+
+# 11. Wordwall
+
+## Imagen de referencia
+
+![Wordwall](./wordwall.jpeg)
+
+## Enlaces
+
+* Sitio oficial:
+  https://wordwall.net
+
+## ¿Qué trabaja?
+
+* Lectura.
+* Escritura.
+* Comprensión.
+* Memoria.
+* Atención.
+
+## Recomendada para
+
+* Educación especial.
+* Nivel inicial.
+* Nivel primario.
+* Adaptaciones curriculares.
+
+## Ventajas
+
+* Muy visual.
+* Fácil de utilizar.
+* Gran cantidad de plantillas listas para usar.
+* Permite imprimir actividades.
+
+## Actividades destacadas
+
+* Ruleta.
+* Tarjetas.
+* Emparejar imágenes.
+* Ordenar palabras.
+* Juegos de memoria.
+* Cuestionarios.
+
+## Recomendación CEE 23
+
+⭐⭐⭐⭐⭐ Una de las herramientas más útiles para docentes de apoyo y educación especial.
+
+---
+
+# 12. Pilas Bloques
+
+## Imagen de referencia
+
+![Pilas Bloques](./pilas-bloques.jpeg)
+
+## Enlaces
+
+* Sitio oficial:
+  https://pilasbloques.program.ar
+
+## ¿Qué trabaja?
+
+* Pensamiento lógico.
+* Resolución de problemas.
+* Secuencias.
+* Orientación espacial.
+* Programación por bloques.
+
+## Recomendada para
+
+* Estudiantes que se inician en programación.
+* Desarrollo del pensamiento computacional.
+* Educación especial con acompañamiento.
+
+## Ventajas
+
+* Gratuita.
+* En español.
+* Desarrollada para el ámbito educativo argentino.
+* Similar a Scratch pero más simple.
+
+## Recomendación CEE 23
+
+⭐⭐⭐⭐ Muy recomendable para trabajar lógica y secuencias de forma lúdica.
+
+---
+
+# 13. Genially
+
+## Imagen de referencia
+
+![Genially](./genially.jpeg)
+
+## Enlaces
+
+* Sitio oficial:
+  https://genial.ly
+
+## ¿Qué trabaja?
+
+* Comprensión lectora.
+* Alfabetización.
+* Atención.
+* Memoria.
+* Secuencias.
+* Actividades interactivas.
+
+## Recomendada para
+
+* Todos los niveles educativos.
+* Educación especial.
+* Adaptaciones curriculares.
+
+## Ventajas
+
+* Permite crear juegos personalizados.
+* Escape rooms educativos.
+* Presentaciones interactivas.
+* Material visual muy atractivo.
+
+## Recomendación CEE 23
+
+⭐⭐⭐⭐⭐ Excelente para crear actividades adaptadas a cada estudiante.
+
+---
+
 # Recomendación rápida según la necesidad
 
-| Necesidad                         | Aplicación recomendada  |
-| --------------------------------- | ----------------------- |
-| No reconoce letras                | Leo con Grin, ABC Dinos |
-| No forma sílabas                  | Leo con Grin            |
-| Lectura inicial                   | Leo con Grin, ABC Dinos |
-| Comprensión lectora               | Smile and Learn         |
-| Comunicación mediante pictogramas | ARASAAC                 |
-| Comunicación alternativa          | LetMeTalk, Cboard       |
-| TEA                               | ARASAAC, Cboard         |
-| Estudiantes no verbales           | LetMeTalk, Cboard       |
-| Alfabetización complementaria     | Litera                  |
-| Actividades personalizadas        | Jclic                   |
+| Necesidad                         | Aplicación recomendada                      |
+| --------------------------------- | ------------------------------------------- |
+| No reconoce letras                | Leo con Grin, ABC Dinos                     |
+| No forma sílabas                  | Leo con Grin                                |
+| Lectura inicial                   | Leo con Grin, ABC Dinos, Litera             |
+| Comprensión lectora               | Smile and Learn, Educaplay, Genially        |
+| Comunicación mediante pictogramas | ARASAAC                                     |
+| Comunicación alternativa          | LetMeTalk, Cboard                           |
+| TEA                               | ARASAAC, Cboard, LetMeTalk                  |
+| Estudiantes no verbales           | LetMeTalk, Cboard                           |
+| Alfabetización complementaria     | Litera, Educaplay                           |
+| Actividades personalizadas        | Jclic, Educaplay, Wordwall, Genially        |
+| Pensamiento lógico                | Pilas Bloques                               |
+| Evaluaciones grupales             | Kahoot!                                     |
+
+---
+
+# Recomendación institucional
+
+Para el trabajo diario en el CEE 23 se recomienda priorizar las siguientes herramientas:
+
+### Alfabetización
+
+* Leo con Grin
+* ABC Dinos
+* Litera
+
+### Comunicación aumentativa y alternativa
+
+* ARASAAC
+* LetMeTalk
+* Cboard
+
+### Actividades personalizadas
+
+* Wordwall
+* Educaplay
+* Genially
+* Jclic
+
+### Pensamiento lógico y computacional
+
+* Pilas Bloques
+
+### Evaluaciones y actividades grupales
+
+* Kahoot!
+
+Estas herramientas permiten adaptar los contenidos según las necesidades individuales de cada estudiante, favoreciendo la inclusión y la participación activa en las propuestas pedagógicas.
 
 ---
 
