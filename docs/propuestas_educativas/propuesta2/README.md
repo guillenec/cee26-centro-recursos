@@ -50,50 +50,13 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐⭐ Muy recomendable para alfabetización inicial.
 
----
+## Tutorial en video
 
-# 2. Litera
-
-## Imagen de referencia
-
-![Litera](https://litera.com.ar/assets/logo.png)
-
-## Enlaces
-
-* Sitio oficial: https://litera.com.ar
-* Instagram: https://www.instagram.com/applitera_ok/
-
-## ¿Qué trabaja?
-
-* Lectoescritura.
-* Reconocimiento de palabras.
-* Alfabetización inicial.
-* Actividades adaptativas.
-
-## Recomendada para
-
-* Refuerzo de lectura.
-* Alfabetización complementaria.
-
-## Ventajas
-
-* Desarrollo argentino.
-* Gratuita.
-* Pensada para contextos educativos.
-
-## Limitaciones observadas
-
-* La interfaz todavía se encuentra en evolución.
-* Algunas actividades pueden resultar poco intuitivas.
-* Requiere acompañamiento docente para determinados estudiantes.
-
-## Recomendación CEE 23
-
-⭐⭐⭐ Puede utilizarse como complemento, pero no como herramienta principal.
+* Ver tutorial: https://youtu.be/Z9agekZST0Y
 
 ---
 
-# 3. ABC Dinos
+# 2. ABC Dinos
 
 ## Imagen de referencia
 
@@ -127,9 +90,13 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐ Muy recomendable.
 
+## Tutorial en video
+
+* Ver tutorial: https://youtu.be/uPFvVLf5qGc
+
 ---
 
-# 4. Smile and Learn
+# 3. Smile and Learn
 
 ## Imagen de referencia
 
@@ -163,9 +130,13 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐ Muy recomendable.
 
+## Tutorial en video
+
+* Presentación de la plataforma: https://youtu.be/-6wNTgwUKV4
+
 ---
 
-# 5. Jclic
+# 4. Jclic
 
 ## Imagen de referencia
 
@@ -201,7 +172,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
-# 6. ARASAAC
+# 5. ARASAAC
 
 ## Imagen de referencia
 
@@ -239,7 +210,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
-# 7. LetMeTalk
+# 6. LetMeTalk
 
 ## Imagen de referencia
 
@@ -274,7 +245,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
-# 8. Cboard
+# 7. Cboard
 
 ## Imagen de referencia
 
@@ -310,7 +281,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
-# 9. Kahoot!
+# 8. Kahoot!
 
 ## Imagen de referencia
 
@@ -351,9 +322,14 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐⭐ Excelente para actividades grupales y repasos.
 
+## Tutorial en video
+
+* Quiz en Kahoot!: https://youtu.be/VTGVe5w9AdQ
+* Crear un Kahoot!: https://youtu.be/ePh_VP4mlkc?list=PL-50N2LhNQCUxygfzjJXH-cLlzLzTfINi
+
 ---
 
-# 10. Educaplay
+# 9. Educaplay
 
 ## Imagen de referencia
 
@@ -392,9 +368,15 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐⭐ Muy recomendable para personalizar actividades según cada estudiante.
 
+## Tutorial en video
+
+* Tutorial de Educaplay: https://youtu.be/_P2P9ogAUcc
+* Crear actividades interactivas para tu clase con Educaplay: https://youtu.be/ROb8lQSrDwY
+* Cómo usar Educaplay paso a paso: https://youtu.be/f3HdQGxgk_U
+
 ---
 
-# 11. Wordwall
+# 10. Wordwall
 
 ## Imagen de referencia
 
@@ -440,9 +422,15 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐⭐ Una de las herramientas más útiles para docentes de apoyo y educación especial.
 
+## Tutorial en video
+
+* Crea tu primera actividad paso a paso: https://youtu.be/Z-GfU3kXaTg
+* Juego interactivo en minutos, versión gratuita: https://youtu.be/zIirjg26Nt4
+* Qué es Wordwall, registro y realización de un juego: https://youtu.be/QcJxE-e30y4
+
 ---
 
-# 12. Pilas Bloques
+# 11. Pilas Bloques
 
 ## Imagen de referencia
 
@@ -480,7 +468,7 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ---
 
-# 13. Genially
+# 12. Genially
 
 ## Imagen de referencia
 
@@ -517,6 +505,13 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 
 ⭐⭐⭐⭐⭐ Excelente para crear actividades adaptadas a cada estudiante.
 
+## Tutorial en video
+
+* Cómo usar Genially en 2026: https://youtu.be/0QA_f8lJDS0
+* Cómo crear recursos accesibles con Genially: https://youtu.be/1kQXXv6rF1Y
+* Tutorial de Genially para docentes: https://youtu.be/FGpRRh0TFj8
+* Tutorial Genially 013: rompecabezas: https://youtu.be/9hCyGMOfr7I
+
 ---
 
 # Recomendación rápida según la necesidad
@@ -525,13 +520,13 @@ Es importante recordar que ninguna aplicación reemplaza la intervención pedag�
 | --------------------------------- | ------------------------------------------- |
 | No reconoce letras                | Leo con Grin, ABC Dinos                     |
 | No forma sílabas                  | Leo con Grin                                |
-| Lectura inicial                   | Leo con Grin, ABC Dinos, Litera             |
+| Lectura inicial                   | Leo con Grin, ABC Dinos                     |
 | Comprensión lectora               | Smile and Learn, Educaplay, Genially        |
 | Comunicación mediante pictogramas | ARASAAC                                     |
 | Comunicación alternativa          | LetMeTalk, Cboard                           |
 | TEA                               | ARASAAC, Cboard, LetMeTalk                  |
 | Estudiantes no verbales           | LetMeTalk, Cboard                           |
-| Alfabetización complementaria     | Litera, Educaplay                           |
+| Alfabetización complementaria     | Educaplay                                   |
 | Actividades personalizadas        | Jclic, Educaplay, Wordwall, Genially        |
 | Pensamiento lógico                | Pilas Bloques                               |
 | Evaluaciones grupales             | Kahoot!                                     |
@@ -546,7 +541,6 @@ Para el trabajo diario en el CEE 23 se recomienda priorizar las siguientes herra
 
 * Leo con Grin
 * ABC Dinos
-* Litera
 
 ### Comunicación aumentativa y alternativa
 
