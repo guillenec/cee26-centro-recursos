@@ -80,13 +80,13 @@ Resultan especialmente utiles para proteger los puertos de carga y conectividad 
 
 # 1. Samsung Galaxy Tab Active5
 
-## Imagen
+![alt text](image.png)
 
 Pendiente de agregar.
 
 ## Precio estimado
 
-$700.000 a $1.000.000 ARS
+$700.000 a $1.000.000 ARS 
 
 ## Enlace
 
@@ -126,7 +126,7 @@ Pendiente de agregar.
 
 # 2. Oukitel RT9
 
-## Imagen
+![alt text](image-1.png)
 
 Pendiente de agregar.
 
@@ -166,8 +166,7 @@ Pendiente de agregar.
 ---
 
 # 3. Oukitel RT3 Pro
-
-## Imagen
+![alt text](image-2.png)
 
 Pendiente de agregar.
 
@@ -206,7 +205,7 @@ Pendiente de agregar.
 
 # 4. Oukitel RT3 Plus
 
-## Imagen
+![alt text](image-3.png)
 
 Pendiente de agregar.
 
@@ -244,7 +243,7 @@ Pendiente de agregar.
 
 # 5. Samsung Galaxy Tab A11
 
-## Imagen
+![alt text](image-4.png)
 
 Pendiente de agregar.
 
@@ -298,7 +297,7 @@ Se recomienda:
 
 # 6. Lenovo Tab M10 / M11
 
-## Imagen
+![alt text](image-5.png)
 
 Pendiente de agregar.
 
