@@ -8,7 +8,7 @@
 
 ***
 
-Ultima actualizacion: 2026-05-11
+Ultima actualizacion: 2026-06-16
 
 ## 1. Inicio rapido
 
@@ -53,3 +53,4 @@ Ultima actualizacion: 2026-05-11
 - [Propuestas educativas - vista general](./propuestas_educativas/README.md)
 - [Estrategias digitales para estudiantes que no realizan producciones escritas](./propuestas_educativas/propuesta1/README.md)
 - [Aplicaciones recomendadas para alfabetizacion y educacion especial](./propuestas_educativas/propuesta2/README.md)
+- [Propuesta de tablets para la Escuela de Educacion Especial N. 23](./propuestas_educativas/propuesta3/README.md)
