@@ -7,6 +7,7 @@ Este espacio reune propuestas y materiales de consulta pensados para acompanar p
 1. [Estrategias digitales para estudiantes que no realizan producciones escritas](./propuesta1/README.md)
 2. [Aplicaciones recomendadas para alfabetizacion y educacion especial](./propuesta2/README.md)
 3. [Propuesta de tablets para la Escuela de Educacion Especial N. 23](./propuesta3/README.md)
+4. [Incorporacion de una impresora 3D como recurso pedagogico inclusivo](./propuesta4/README.md)
 
 ## Para que sirve esta carpeta
 

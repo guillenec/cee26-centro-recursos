@@ -8,7 +8,7 @@
 
 ***
 
-Ultima actualizacion: 2026-06-16
+Ultima actualizacion: 2026-08-25
 
 ## 1. Inicio rapido
 
@@ -54,3 +54,4 @@ Ultima actualizacion: 2026-06-16
 - [Estrategias digitales para estudiantes que no realizan producciones escritas](./propuestas_educativas/propuesta1/README.md)
 - [Aplicaciones recomendadas para alfabetizacion y educacion especial](./propuestas_educativas/propuesta2/README.md)
 - [Propuesta de tablets para la Escuela de Educacion Especial N. 23](./propuestas_educativas/propuesta3/README.md)
+- [Incorporacion de una impresora 3D como recurso pedagogico inclusivo](./propuestas_educativas/propuesta4/README.md)
